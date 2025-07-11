@@ -17,7 +17,7 @@ import { ProfileSkeleton, BenefitCardSkeleton, RewardPointsSkeleton } from './co
 
 // Mock data
 const mockUser = {
-  name: 'Rahul Sharma',
+  name: 'Bharathikannan Ramakrishnan',
   avatar: 'https://i.pravatar.cc/150?img=11',
   level: 5,
   currentXP: 1250,
