@@ -82,7 +82,7 @@ The app can be deployed to Vercel with the following steps:
 2. Connect your repository to Vercel
 3. Vercel will automatically detect the React app and deploy it
 
-Live demo: [https://cred-dashboard.vercel.app](https://cred-dashboard.vercel.app)
+Live demo: [https://bharathikannano-dashboard.vercel.app](https://bharathikannano-dashboard.vercel.app)
 
 ## License
 
