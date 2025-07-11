@@ -1,0 +1,17 @@
+module.exports = {
+  ResponsiveContainer: 'div',
+  LineChart: 'div',
+  Line: 'div',
+  XAxis: 'div',
+  YAxis: 'div',
+  CartesianGrid: 'div',
+  Tooltip: 'div',
+  Legend: 'div',
+  BarChart: 'div',
+  Bar: 'div',
+  PieChart: 'div',
+  Pie: 'div',
+  Cell: 'div',
+  AreaChart: 'div',
+  Area: 'div',
+};

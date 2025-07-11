@@ -2,7 +2,7 @@
   "name": "cred-dashboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bharathikannano.github.io/dashboard",
+  "homepage": ".",
   "dependencies": {
     "@babel/parser": "^7.23.0",
     "@radix-ui/react-avatar": "^1.1.10",
